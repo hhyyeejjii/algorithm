@@ -29,5 +29,5 @@ while n != new:
     else:
         new = createNewNumber(new)
         count += 1
-
+        
 print(count)

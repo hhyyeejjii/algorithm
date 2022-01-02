@@ -13,3 +13,4 @@ if fre_word.count(max(fre_word)) >= 2 :
 else :
     #최대인 값의 인덱스를 구하고 해당하는 인덱스 값을 출력
     print(wordlist[fre_word.index(max(fre_word))])
+    

@@ -30,8 +30,4 @@ for i in range(n):
         if b[i] % 4 == 0:
             print((new_a ** 4) % 10)
         else:
-<<<<<<< HEAD
             print((new_a ** (b[i] % 4)) % 10) 
-=======
-            print((new_a ** (b[i] % 4)) % 10) 
->>>>>>> 8a78d409865b69e0a0289d17ddcb9cbe2adc249c

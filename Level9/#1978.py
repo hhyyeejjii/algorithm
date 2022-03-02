@@ -13,4 +13,4 @@ for i in num :
             cnt += 1
     if cnt == 1:
         prime += 1
-print(prime)햐
+print(prime)

@@ -6,7 +6,7 @@ elif m <45 and h>0:
     print(h-1,m+15)
 else:
     print(23,m+15)
-
+ 
 #상수 2908
 a,b = input().split()
 a = int(a[::-1])

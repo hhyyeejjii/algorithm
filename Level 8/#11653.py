@@ -1,8 +1,3 @@
-#소인수분해 11653
-
-from re import I
-
-
 n = int(input())
 i = 2
 while n!=1 :

@@ -1,5 +1,3 @@
-#최댓값 2562
-
 list = [ ]
 for _ in range(9):
     n = int(input())

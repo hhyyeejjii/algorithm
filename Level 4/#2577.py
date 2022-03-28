@@ -1,5 +1,3 @@
-#숫자의 개수 2577
-
 a =int(input())
 b =int(input())
 c =int(input())

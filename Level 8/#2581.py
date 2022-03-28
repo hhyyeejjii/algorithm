@@ -1,4 +1,3 @@
-#소수 2581
 m = int(input())
 n = int(input())
 decimalnum = []

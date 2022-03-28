@@ -1,5 +1,3 @@
-#소수 찾기 19778
-
 n = int(input())
 num = map(int, input().split())
 prime = 0 #소수 개수 카운팅
